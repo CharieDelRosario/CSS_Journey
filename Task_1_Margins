@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 1: Margins</title>
+    <style>
+        h2,h3{
+            margin:100px 100px 100px 100px;
+        }
+        li{
+           margin-top: 100px;
+           margin-left: 120px;
+           margin-bottom: 130px;
+           margin-right: 140px; 
+        }
+    </style>
+</head>
+<body>
+    <h2>Understanding the Self</h2>
+    <h3>Philosophers Perspective of the Self</h3>
+    <ol type="I">
+    <li><b>Socrates</b>-Believes in the concept of dualism:<br> 1.Physical Body(Material substances). <br>2. Immortal Soul(immaterial substances) <br>According to him "Unexamined life is not worth living".</li>
+    <li><b>Plato</b>- Student of Socrates <br>-the self is immortal,consisting 3 reason:<br>1. Reason-divine essence tha enables us to think deeply.<br> 2.Physical Appetite-referring to our biological needs.<br>3.Spirit/Passion- referring to our emotions that we feel daily.</li>
+    <li><b>St. Augustine</b>- He is a christian, serve as a bishop of Hipo. <br> He became a father to an illegitemate child. <br>before He believes that self is a slave or our soul, but then it become spouse of our soul.<br> His 1st prinsiple is "I doupt, therefore I am".</li>
+    <li><b>Rene Descartes</b>- He was a scientist and also a catholist. <br> "Cogito egro sum" means i think, therefore I am.</li>
+    <li><b>John Locke</b>- He is from England <br> His concept to the self is "tabula rasa" (blank sheet). <br>For him when we're born, we're like a blank sheet, but when we've writing in our sheets these are the experiences which shapes us.</li>
+    <li><b>David Hume</b>- For him there is no self. <br> according to him, we create characters that's not realy existing in the real life.</li>
+    <li><b>Immanuel Kant</b>- He is contradict to David, for him there is self. <br> For him the self is the product of reason.</li>
+    <li><b>Sigmund Freud</b>- For him the self has 3 sides, Id(your devil side), Ego(your bad and good side), Superego(your good side)<br> For him self is composed of 3 layers: <br>1.Consious-things we are aware of. <br>2.Preconscious- can be recalled(biglang naaalala). <br>3.Unconscious-exising but unnotice or unrecognize.</li>
+    <li><b>Gildert Ryle</b>- According to him" I act, therefore I am" what define a person is his/her behavior.</li>
+    <li><b>Paul Churchland</b>- Professor os the University of California.<br> According to him the self is the brain, because it is the control center of our body.</li>
+    <li><b>Maurice Merleau Ponty</b>- The self has an embodied subjectivity.(who we are right now is a product of subjectivity, ikaw lang ang nakakaalm).<br>Your body is your medium for having a world.</li>
+ </ol>
+</body>
+</html>
